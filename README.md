@@ -1,2 +1,2 @@
-# Homework2
+# Homework
 classes and functions
